@@ -7,9 +7,7 @@ It is released as a reverse engineering proof-of-concept code.
 
 ![poison](img/screenshot.png) 
 
-<video width="400" height="380" controls>
-<source src="https://user-images.githubusercontent.com/95986479/146443944-669c3277-99d6-4b9b-96e7-f0feabd1be65.mp4" type="video/mp4">
-</video> 
+https://user-images.githubusercontent.com/95986479/146443944-669c3277-99d6-4b9b-96e7-f0feabd1be65.mp4
 
 ### How to use
 
