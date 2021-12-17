@@ -42,7 +42,8 @@ Please ignore this, and add it to your antivirus exclusion list.
 
 ### Support
 
-[![bitcoin](https://img.shields.io/badge/donate-bitcoin-EF8E19)](bitcoin:bc1qjwedefp3xruv7qak72l89hzx5mx0c0ftq8qem7)
+[![bitcoin](https://img.shields.io/badge/donate-bitcoin-EF8E19)]
+(bitcoin:bc1qjwedefp3xruv7qak72l89hzx5mx0c0ftq8qem7)
 
 If you would like to see more projects like this one, please consider supporting me :)  
 
